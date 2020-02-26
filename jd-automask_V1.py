@@ -68,8 +68,8 @@ if area == "":
 
 timesleep = random.randint(5, 15) / 10
 # eid
-eid = global_config.getRaw('config', 'eid')
-fp = global_config.getRaw('config', 'fp')
+# eid = global_config.getRaw('config', 'eid')
+# fp = global_config.getRaw('config', 'fp')
 # 支付密码
 payment_pwd = global_config.getRaw('config', 'payment_pwd')
 
